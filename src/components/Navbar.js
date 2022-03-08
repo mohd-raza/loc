@@ -38,44 +38,6 @@ const Navbar = () => {
         </div>
       </header>
     </>
-    //   <nav className="bg-blue-300 text-zinc-600 font-sans">
-    //     <div>
-    //       <div className="flex justify-between items-center">
-    //         <div className="flex space-x-36 px-3 ml-8">
-    //           {/* logo */}
-    //           <a href="/" className="text-3xl font-bold">
-    //             Logo
-    //           </a>
-    //           {/* primary nav */}
-    //           <div className="flex items-center space-x-20 text-zinc-600 text-lg font-semibold">
-    //             <a href="/" className="hover:text-indigo-600">
-    //               Home
-    //             </a>
-    //             <a href="/" className="hover:text-indigo-600">
-    //               About
-    //             </a>
-    //             <a href="/" className="hover:text-indigo-600">
-    //               Reviews
-    //             </a>
-    //             <a href="/" className="hover:text-indigo-600">
-    //               Contact
-    //             </a>
-    //           </div>
-    //         </div>
-    //         <div className="md:flex p-2 ">
-    //           <ul className="flex items-center">
-    //             <li className="font-semibold text-xl bg-transparent text-black mr-12">
-    //               <Link to="/login">Login</Link>
-    //             </li>
-    //             <li className="px-8 py-2 font-semibold text-xl ">
-    //               <Link to="/signup">Sign Up</Link>
-    //             </li>
-    //           </ul>
-    //         </div>
-    //       </div>
-    //     </div>
-    //   </nav>
-    // );
   );
 };
 
